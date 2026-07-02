@@ -1,3 +1,0 @@
-//declarar variable
-
-//asignar valor
