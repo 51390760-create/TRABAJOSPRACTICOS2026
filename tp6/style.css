@@ -11,10 +11,11 @@ div {display: flex;
     width: 100px;
 }
 button {
-    background-color: blanchedalmond;
+    background-color: rgba(66, 66, 63, 0.815);
 color: black;
 padding: 20px; ;
 border: none;
 border-radius: 12px;
 margin: 10px;
 }
+button:hover {background-color: azure;}
